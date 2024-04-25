@@ -1,0 +1,9 @@
+/* Gold Block */
+
+position: absolute;
+width: 96px;
+height: 116px;
+left: 1174px;
+top: 774px;
+
+background: url(image.png);
